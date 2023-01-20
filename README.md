@@ -85,3 +85,7 @@ sequenceDiagram
   F->>D: 緊急パッチをあてる
   F->>A: 緊急パッチが完了したら main ブランチにマージする
 ```
+
+## CI ツール
+
+基本的に GitHub Actions を使用する。
