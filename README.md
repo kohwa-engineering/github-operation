@@ -127,7 +127,7 @@ https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-
 
 この kohwa-engineering では、レビュアーは以下の人を指定する。
 
-- @n0pj ( 幸和エンジニアリング リポジトリの管理者 )
+- @kohwa-engineering-admin ( 幸和エンジニアリング リポジトリの管理者 )
 
 ### マージ
 
