@@ -113,10 +113,16 @@ Issue は必ずプルリクエストに紐付ける。
 closes #1
 ```
 
+その他は以下を参照。
+
+https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#closing-issues-using-keywords
+
 ### レビュアー
 
 プルリクエストは必ずレビュアーを指定する。
+
 レビュアーは、プルリクエストを作成した人以外の人を指定する。
+
 指定する場合、作業が完了してからレビュアーを割り当てる。( 割り当て瞬間に通知が行くため )
 
 この kohwa-engineering では、レビュアーは以下の人を指定する。
